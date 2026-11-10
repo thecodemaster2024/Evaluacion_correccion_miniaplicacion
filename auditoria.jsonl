@@ -1,0 +1,61 @@
+{"fecha": "2026-11-07T17:55:00", "usuario": "jose", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T17:55:24", "usuario": "jose", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T17:55:30", "usuario": "jose", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T17:55:50", "usuario": "jose", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T18:03:24", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T18:03:31", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T18:16:49", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T18:16:56", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T18:17:02", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T18:17:07", "usuario": "user", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T22:25:07", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-07T22:25:52", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P002", "anterior": 15, "nueva": 9}}
+{"fecha": "2026-11-07T22:26:19", "usuario": "SALIR", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T22:27:11", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-07T22:27:28", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P001", "anterior": 10, "nueva": 12}}
+{"fecha": "2026-11-07T22:29:44", "usuario": "user", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T22:30:57", "usuario": "error", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T22:36:28", "usuario": "no_existe", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T22:37:16", "usuario": "tu madre", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T22:40:27", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-07T22:40:27", "usuario": "user", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:40:27", "usuario": "anonimo", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:40:27", "usuario": "anonimo", "accion": "consultar", "resultado": "fallido", "detalles": {"motivo": "sesion_invalida"}}
+{"fecha": "2026-11-07T22:44:19", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-07T22:44:19", "usuario": "user", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:44:19", "usuario": "anonimo", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:44:19", "usuario": "anonimo", "accion": "consultar", "resultado": "fallido", "detalles": {"motivo": "sesion_invalida"}}
+{"fecha": "2026-11-07T22:48:28", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-07T22:48:52", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-07T22:49:34", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P002", "anterior": 9, "nueva": 99}}
+{"fecha": "2026-11-07T22:55:50", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-07T22:55:50", "usuario": "user", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:55:50", "usuario": "anonimo", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:55:50", "usuario": "anonimo", "accion": "consultar", "resultado": "fallido", "detalles": {"motivo": "sesion_invalida"}}
+{"fecha": "2026-11-07T22:56:36", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-07T22:56:36", "usuario": "user", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:56:36", "usuario": "anonimo", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-07T22:56:36", "usuario": "anonimo", "accion": "consultar", "resultado": "fallido", "detalles": {"motivo": "sesion_invalida"}}
+{"fecha": "2026-11-10T00:32:17", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T00:32:52", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "cantidad_fuera_de_rango"}}
+{"fecha": "2026-11-10T00:33:56", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "cantidad_fuera_de_rango"}}
+{"fecha": "2026-11-10T00:34:25", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "cantidad_fuera_de_rango"}}
+{"fecha": "2026-11-10T00:34:44", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "cantidad_invalida"}}
+{"fecha": "2026-11-10T00:35:18", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "cantidad_invalida"}}
+{"fecha": "2026-11-10T00:35:37", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "cantidad_invalida"}}
+{"fecha": "2026-11-10T00:36:04", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P001", "anterior": 10, "nueva": 0}}
+{"fecha": "2026-11-10T00:37:05", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P001", "anterior": 0, "nueva": 1000}}
+{"fecha": "2026-11-10T00:37:29", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P001", "anterior": 1000, "nueva": 10}}
+{"fecha": "2026-11-10T10:54:44", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T10:55:04", "usuario": "user", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-10T10:56:50", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T10:57:27", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "id_inexistente", "producto": "2"}}
+{"fecha": "2026-11-10T11:08:30", "usuario": "user", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T11:13:16", "usuario": "user", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "sin_permiso"}}
+{"fecha": "2026-11-10T11:13:46", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T11:16:58", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "detalles": {"producto": "P001", "anterior": 10, "nueva": 20}}
+{"fecha": "2026-11-10T11:17:37", "usuario": "admin", "accion": "modificar", "resultado": "fallido", "detalles": {"motivo": "id_inexistente", "producto": "P999"}}
+{"fecha": "2026-11-10T13:06:48", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T13:13:52", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
+{"fecha": "2026-11-10T13:14:16", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T13:16:20", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
