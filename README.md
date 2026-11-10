@@ -3,8 +3,6 @@
 # Autor: Jose J Rivera Vazquez
 # Repositorio publico
  https://github.com/thecodemaster2024/Evaluacion_correccion_miniaplicacion.git
-# Commit: 0e71977c4b2b8b3ecccd7cb6c8afd5a7f5c5a612
-
 ### Ejecución
 
 Requisitos: Python 3.10 o posterior. Desde esta carpeta:
