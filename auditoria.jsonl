@@ -59,3 +59,4 @@
 {"fecha": "2026-11-10T13:13:52", "usuario": "admin", "accion": "login", "resultado": "fallido", "detalles": {"motivo": "credenciales_invalidas"}}
 {"fecha": "2026-11-10T13:14:16", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
 {"fecha": "2026-11-10T13:16:20", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}
+{"fecha": "2026-11-10T14:50:59", "usuario": "admin", "accion": "login", "resultado": "exitoso", "detalles": {}}

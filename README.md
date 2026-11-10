@@ -20,9 +20,6 @@ Dependencia principal: `argon2-cffi`, instalada desde `requirements.txt`
 # Uso de IA
 Se utilizo Copilot para sugerencias, modificacion del codigo y correcion de errores
 
-# Verificacion en otra carpeta
-
-
 # Detalles sobre el codigo 
 El codigo cumple con las Modificaciones solicitadas y pruebas solicitadas del proyecto no debe tratarse como codigo completo ya que todavia esta propenso a errores  
 
