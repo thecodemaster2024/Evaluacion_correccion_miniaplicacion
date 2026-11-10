@@ -1,6 +1,6 @@
 # Datos de entrega
 
-# Autor: Jose J Rvera Vazquez
+# Autor: Jose J Rivera Vazquez
 # Repositorio publico
  https://github.com/thecodemaster2024/Evaluacion_correccion_miniaplicacion.git
 # Commit: 
