@@ -1,8 +1,7 @@
 # Datos de entrega
 
 # Autor: Jose J Rivera Vazquez
-# Repositorio publico
- https://github.com/thecodemaster2024/Evaluacion_correccion_miniaplicacion.git
+
 ### Ejecución
 
 Requisitos: Python 3.10 o posterior. Desde esta carpeta:
